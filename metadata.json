@@ -1,0 +1,5 @@
+{
+  "name": "Story-o-matic",
+  "description": "An AI-powered creative writing suite for generating long-form stories with granular control over plot, lore, and style.",
+  "requestFramePermissions": []
+}
